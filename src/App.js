@@ -1,6 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
 import Hello from './components/Hello';
+import Rest from './components/Rest';
 import React, { Component } from 'react';
 
 class App extends Component {
@@ -8,6 +8,7 @@ class App extends Component {
     return(
       <div className="App">
         <Hello />
+        <Rest />
       </div>
     );
   };
