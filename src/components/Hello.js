@@ -5,6 +5,7 @@ function Hello() {
         <>
             <h1>Hello Shehan</h1>
             <p>This is awesome</p>
+            <h3>Another tag</h3>
         </>
     )
 }
