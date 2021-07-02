@@ -1,0 +1,15 @@
+.flex{
+    display: flex;
+}
+
+.main{
+    flex: 2;
+}
+
+.side{
+    flex: 1;
+}
+
+.vc{
+
+}

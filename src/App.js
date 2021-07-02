@@ -7,8 +7,9 @@ class App extends Component {
   render(){
     return(
       <div className="App">
-        <Hello />
-        <Rest />
+         <Hello />
+       {/* <Rest />*/}
+       {/* <Oi />*/}
         {/* test * */}
       </div>
     );
